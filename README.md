@@ -1,7 +1,7 @@
 ### Google Play libraries
 
 **Overview**
-- https://developer.android.com/distribute/play-services/<br/>
+- https://developer.android.com/distribute/play-services/#developer-tools<br/>
 
 ---
 
